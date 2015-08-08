@@ -1,2 +1,2 @@
 # run-export-multiple-queries
-Given SQL table definition files, read through each and export those table definitions in spreadsheets by schema.
+Given multiple queries, run those queries and export the results as separate files.
